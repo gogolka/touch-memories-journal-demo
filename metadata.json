@@ -1,7 +1,0 @@
-{
-  "name": "TravelBook Constructor",
-  "description": "A sophisticated online travel book builder inspired by professional photo book editors, featuring a 20x30cm layout, page management, and AI-powered storytelling features.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}

@@ -19,6 +19,10 @@ export interface PageElement {
   color?: string;
   textAlign?: 'left' | 'center' | 'right' | 'justify';
   zIndex: number;
+  // Позиціонування всередині слоту
+  imageX?: number;
+  imageY?: number;
+  imageZoom?: number;
 }
 
 export interface Spread {
